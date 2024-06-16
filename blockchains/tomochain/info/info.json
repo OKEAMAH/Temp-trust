@@ -1,9 +1,10 @@
 {
-    "name": "Viction",
-    "website": "https://viction.xyz/",
-    "description": "Viction (VIC) is a people-centric layer-1 blockchain that provides zero-gas transactions and heightened security, making Web3 accessible and safe for everyone.",
+    "name": "TomoChain",
+    "website": "https://tomochain.com",
+    "description": "TomoChain is a scalable blockchain powered via Proof-of-Stake Voting consensus and used commercially by companies globally.",
     "explorer": "https://scan.tomochain.com",
-    "symbol": "VIC",
+    "research": "https://research.binance.com/en/projects/tomochain",
+    "symbol": "TOMO",
     "type": "coin",
     "decimals": 18,
     "status": "active",
@@ -14,11 +15,15 @@
         },
         {
             "name": "twitter",
-            "url": "https://twitter.com/BuildOnViction"
+            "url": "https://twitter.com/TomoChainANN"
         },
         {
-            "name": "telegram",
-            "url": "https://t.me/buildonviction"
+            "name": "reddit",
+            "url": "https://reddit.com/r/Tomochain"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://tomochain.com/docs/technical-whitepaper--1.0.pdf"
         }
     ]
 }

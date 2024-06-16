@@ -9,9 +9,6 @@
     "decimals": 18,
     "rpc_url": "https://mainnet.aurora.dev",
     "status": "active",
-    "tags": [
-        "dapp"
-    ],
     "links": [
         {
             "name": "twitter",

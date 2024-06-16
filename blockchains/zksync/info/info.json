@@ -10,9 +10,6 @@
     "coin_type": 324,
     "decimals": 18,
     "status": "active",
-    "tags": [
-        "dapp"
-    ],
     "links": [
         {
             "name": "twitter",

@@ -1,0 +1,13 @@
+{
+  "block": {
+    "inflation_rewards": {
+      "height": "4052007",
+      "inflation_rewards": {
+        "denom": "aarch",
+        "amount": "5133118287233387747"
+      },
+      "max_gas": "300000000"
+    },
+    "tx_rewards": []
+  }
+}

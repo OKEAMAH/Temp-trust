@@ -10,8 +10,5 @@
     "decimals": 18,
     "status": "active",
     "rpc_url": "https://mainnet.optimism.io",
-    "links": [],
-    "tags": [
-        "dapp"
-    ]
+    "links": []
 }

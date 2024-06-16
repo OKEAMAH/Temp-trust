@@ -10,9 +10,6 @@
     "type": "coin",
     "decimals": 18,
     "status": "active",
-    "tags": [
-        "dapp"
-    ],
     "links": [
         {
             "name": "github",

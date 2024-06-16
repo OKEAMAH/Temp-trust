@@ -9,9 +9,6 @@
     "rpc_url": "https://forno.celo.org",
     "decimals": 18,
     "status": "active",
-    "tags": [
-        "dapp"
-    ],
     "links": [
         {
             "name": "github",

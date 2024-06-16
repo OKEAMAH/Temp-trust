@@ -69,6 +69,10 @@
          "coinId": "avalanche"
       },
       {
+         "chain": "32659",
+         "coinId": "fusion"
+      },
+      {
          "chain": "42220",
          "coinId": "celo"
       },

@@ -146,12 +146,9 @@ func (s *Service) FixAssetInfo(f *file.AssetFile) error {
 		expectedTokenType = strings.ToUpper(assetType)
 	}
 
-	// https://github.com/trustwallet/backend/issues/2561
-	if chain.ID != coin.CRYPTOORG && chain.ID != coin.CRONOS {
-		if chain.ID != f.Chain().ID || !strings.EqualFold(assetType, expectedTokenType) {
-			assetInfo.Type = &expectedTokenType
-			isModified = true
-		}
+	if chain.ID != f.Chain().ID || !strings.EqualFold(assetType, expectedTokenType) {
+		assetInfo.Type = &expectedTokenType
+		isModified = true
 	}
 
 	// Fix asset id.
