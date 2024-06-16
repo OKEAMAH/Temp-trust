@@ -45,13 +45,13 @@ github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
-github.com/stretchr/testify v1.8.0 h1:pSgiaMZlXftHpm5L7V1+rVB+AZJydKsMxsQBIJw4PKk=
+github.com/stretchr/testify v1.8.3 h1:RP3t2pwF7cMEbC1dqtB6poj3niw/9gnV4Cjg5oW5gtY=
 github.com/subosito/gotenv v1.2.0 h1:Slr1R9HxAlEKefgq5jn9U+DnETlIUa6HfgEzj0g5d7s=
 github.com/subosito/gotenv v1.2.0/go.mod h1:N0PQaV/YGNqwC0u51sEeR/aUtSLEXKX9iv69rRypqCw=
 github.com/trustwallet/assets-go-libs v0.3.9 h1:zfca+CbbDmGgcyYiac67HpX9kNCT9ZSniz/PUd40Mm0=
 github.com/trustwallet/assets-go-libs v0.3.9/go.mod h1:NikOkz9w7zgZaEa/Qf1dyYydJYXRLHErSB8cOshQn48=
-github.com/trustwallet/go-libs v0.7.3 h1:X5KTj2/582Iv/3Pbm9AKPABBlwGE0tLGbQir66jD6U0=
-github.com/trustwallet/go-libs v0.7.3/go.mod h1:5TQECBJo2ZUhGvB4pTKtyYeclGhzlYooVv/EufU4Axk=
+github.com/trustwallet/go-libs v0.8.8 h1:OTZmS+wo+3kAzRvbFvq4WqwCXL/tnAVp/ind+Afi6e0=
+github.com/trustwallet/go-libs v0.8.8/go.mod h1:dfYZycN97Cm7Wycg76MwcAcseKxIriB9JsjIGcYMiSk=
 github.com/trustwallet/go-primitives v0.1.30 h1:3z2T2HLglNPv51iT6pZTblqEwdSD22a0jEAfW05bdmc=
 github.com/trustwallet/go-primitives v0.1.30/go.mod h1:GN9WNIOvtz9j77FSYLEqC7apbMlzQnFLNO9LOCMy5Mc=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
