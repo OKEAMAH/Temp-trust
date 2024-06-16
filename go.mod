@@ -6,7 +6,7 @@ require (
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.8.1
 	github.com/trustwallet/assets-go-libs v0.3.9
-	github.com/trustwallet/go-libs v0.7.3
+	github.com/trustwallet/go-libs v0.8.8
 	github.com/trustwallet/go-primitives v0.1.30
 )
 
